@@ -6,8 +6,7 @@ This repository is my **project portfolio**, containing links to my main data an
 
 ---
 
-## 📊 Projects / 项目列表
+### 1. [H1B Interactive Dashboard](https://github.com/XiaoBao3614/H1B-company-list-dashboard)
 
-### 1. [H1B Interactive Dashboard]([https://github.com/XiaoBao3614/h1b-dashboard](https://github.com/XiaoBao3614/H1B-company-list-dashboard.git))
 - **中文**：基于 HTML+JS 的离线 H1B 雇主可视化仪表盘  
-- **English**: Offline interactive dashboard visualizing U.S. H1B employer data  
+- **English**: Offline interactive dashboard visualizing U.S. H1B employer data
